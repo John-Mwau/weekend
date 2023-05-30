@@ -124,7 +124,7 @@ body{
         flex-direction: column;
         align-items: center;
         background: linear-gradient(top right hsl(236, 72%, 79%));
-        margin-bottom: 20px;
+        margin-bottom: 8px;
     } 
     .container{
         display: flex;
