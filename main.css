@@ -138,7 +138,7 @@ body{
         background-image: url(images/bg-top.svg), url(images/bg-bottom.svg);
         background-repeat: no-repeat;
         background-position: top right, bottom -90px left 10px;
-        background-size: 150px 300px, 250px 250px;
+        background-size: 300px 300px, 250px 250px;
     }
     r-1{
         outline: solid white;
