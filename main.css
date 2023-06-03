@@ -135,10 +135,9 @@ body{
         align-items: center;
     }
     body{
-   
         background-image: url(images/bg-top.svg), url(images/bg-bottom.svg);
         background-repeat: no-repeat;
-        background-position: top -10px right, bottom -90px left 10px;
+        background-position: top right, bottom -90px left 10px;
         background-size: 150px 300px, 250px 250px;
     }
     r-1{
