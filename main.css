@@ -6,8 +6,8 @@ body{
    
     background-image: url(images/bg-top.svg), url(images/bg-bottom.svg);
     background-repeat: no-repeat;
-    background-position: top right, bottom left;
-    background-size: 400px 400px, 300px 300px;
+    background-position: top right, bottom -90px left 10px;
+    background-size: 400px 400px, 250px 250px;
 }
 .main-heading{
     display: flex;
@@ -23,6 +23,9 @@ body{
 .switch-wrapper{
     display: flex;
     justify-content: center;
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
 }
 .switch-wrapper [type="radio"]{
     display: none;
@@ -43,7 +46,7 @@ body{
 .r-1 p{
     border-bottom: 2px solid white; 
     text-align: center; 
-    width: 200px;
+    width: 250px;
     margin: 20px;
 }
 .r-1 :nth-child(2){
@@ -101,7 +104,7 @@ body{
 .r-3 p{
     border-bottom: 2px solid white; 
     text-align: center; 
-    width: 200px;
+    width: 250px;
     margin: 20px;
 }
 .r-3 :nth-child(2){
