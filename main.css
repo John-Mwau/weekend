@@ -19,11 +19,13 @@ body{
 .heading{
     display: flex;
     justify-content: center;
+    color: hsl(265, 98%, 67%);
 }
 .switch-wrapper{
     display: flex;
     justify-content: center;
-    width: 150px;
+    justify-content: space-between;
+    width: 200px;
     padding: 5px;
     border-radius: 10px;
 }
